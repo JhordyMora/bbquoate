@@ -1,2 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+from bbquoate.lib import get_bbquote
+
+print(get_bbquote())
